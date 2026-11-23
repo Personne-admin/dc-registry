@@ -1,0 +1,12 @@
+dpm::v1::RegistryAlias {
+    alias = "dconp",
+    location = "github.com/Personne-admin/dconp",
+    versions = {
+        {
+            version = "0.1.0",
+            source = "git+https://github.com/Personne-admin/dconp.git",
+            commit = "82f605cefb52f8d41724b00c73fef2be82d777c1",
+            hash = "sha256:68d9c488d4f482b7afc27137ec55f6588813bb8449e2c6c2b25584fd553bc2b5",
+        },
+    },
+}
